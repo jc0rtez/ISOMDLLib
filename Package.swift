@@ -18,8 +18,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ISOMDLLib",
-            url: "https://github.com/jc0rtez/ISOMDLLib/releases/download/1.0.2/ISOMDLLib.xcframework.zip",
-            checksum: "c90b1db3adc9252d87b8098254c674547eea97881f0a974a33c1a217f83679b6"
+            url: "https://github.com/jc0rtez/ISOMDLLib/releases/download/1.0.3/ISOMDLLib.xcframework.zip",
+            checksum: "94e32f4b8843f55f2c13604f8a185f3e03218063cfb6a98f72e35e98ce1f0067"
         ),
         .target(
             name: "ISOMDLLibWrapper",
